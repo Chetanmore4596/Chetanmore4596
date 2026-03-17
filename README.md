@@ -49,7 +49,7 @@ Currently focused on:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetanmore4596&theme=flat&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetanmore4596&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -57,8 +57,7 @@ Currently focused on:
 ## Quick Skill Pulse
 
 <details>
-  <summary>Tap to expand</summary>
-  <br />
+
   <p>Data Structures and Algorithms</p>
   <progress value="70" max="100">70%</progress>
   <p>Full-stack Development</p>
