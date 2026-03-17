@@ -56,15 +56,14 @@ Currently focused on:
 
 ## Quick Skill Pulse
 
-<details>
+<p>Data Structures and Algorithms</p>
+<img src="https://img.shields.io/badge/DSA-70%25-22C55E?style=for-the-badge" alt="DSA 70%" />
 
-  <p>Data Structures and Algorithms</p>
-  <progress value="70" max="100">70%</progress>
-  <p>Full-stack Development</p>
-  <progress value="65" max="100">65%</progress>
-  <p>Modern Web Technologies</p>
-  <progress value="60" max="100">60%</progress>
-</details>
+<p>Full-stack Development</p>
+<img src="https://img.shields.io/badge/Full--stack-65%25-38BDF8?style=for-the-badge" alt="Full-stack 65%" />
+
+<p>Modern Web Technologies</p>
+<img src="https://img.shields.io/badge/Modern%20Web-60%25-F59E0B?style=for-the-badge" alt="Modern Web 60%" />
 
 ---
 
