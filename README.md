@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,20:D65DB1,40:FF6F91,60:FF9671,80:FFC75F,100:F9F871&height=230&section=header&text=Chetan%20More&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Learner&descAlignY=64&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=220&section=header&text=Chetan%20More&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Learner&descAlignY=62" alt="Header" />
 </p>
 
   <p align="left"> 
@@ -73,45 +73,6 @@ Currently focused on:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chetanmore4596&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
-
----
-
-## All Repositories
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=My-Portfolio&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="My-Portfolio" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Movie-recomndetion&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="Movie-recomndetion" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Product-Review-Analysis&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="Product-Review-Analysis" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=cryptoplace&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="cryptoplace" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Python-Projects&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="Python-Projects" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=TODO-APP&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="TODO-APP" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=DeptXPert&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="DeptXPert" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/DSA--in--Java-Private-ef4444?style=for-the-badge&logo=java&logoColor=white" alt="DSA-in-Java (Private)" />
-    </td>
-  </tr>
-</table>
 
 ---
 
