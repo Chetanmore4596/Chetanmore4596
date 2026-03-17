@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetanmore4596&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Chetanmore4596?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Chetanmore4596?label=Stars&style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Chetanmore4596&label=Profile%20Views&color=EC2660&style=for-the-badge&labelColor=FFFFF&logo=github&logoColor=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Chetanmore4596?label=Followers&style=for-the-badge&color=A22EFB&labelColor=FFFFFF&logo=github&logoColor=000000" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Chetanmore4596?label=Stars&style=for-the-badge&color=87FB2E&labelColor=FFFFFF&logo=github&logoColor=000000" alt="Stars" />
 </p>
 
 ---
@@ -20,13 +20,13 @@
 
 <p align="center">
   <a href="mailto:chetanmore4041@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chetanmore4041%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-chetanmore4041%40gmail.com-EF5624?style=for-the-badge&labelColor=FFFFFF&logo=gmail&logoColor=000000" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/chetan-more-b489b02a8">
-    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20More-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20More-24BCEF?style=for-the-badge&labelColor=FFFFFF&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Chetanmore4596">
-    <img src="https://img.shields.io/badge/GitHub-Chetanmore4596-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Chetanmore4596-DA339D?style=for-the-badge&labelColor=FFFFFF&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
 
@@ -74,25 +74,40 @@ Currently focused on:
 
 ## All Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=My-Portfolio&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="My-Portfolio" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Movie-recomndetion&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="Movie-recomndetion" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Product-Review-Analysis&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="Product-Review-Analysis" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=cryptoplace&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="cryptoplace" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Python-Projects&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="Python-Projects" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=TODO-APP&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="TODO-APP" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=DeptXPert&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="DeptXPert" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA--in--Java-Private-ef4444?style=for-the-badge&logo=java&logoColor=white" alt="DSA-in-Java (Private)" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=My-Portfolio&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="My-Portfolio" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Movie-recomndetion&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="Movie-recomndetion" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Product-Review-Analysis&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="Product-Review-Analysis" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=cryptoplace&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="cryptoplace" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Python-Projects&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="Python-Projects" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=TODO-APP&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="TODO-APP" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=DeptXPert&bg_color=ffffff00&hide_border=false&border_color=22C55E&title_color=FFFFFF&text_color=EBF0F9&icon_color=4ADE80" alt="DeptXPert" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/DSA--in--Java-Private-ef4444?style=for-the-badge&logo=java&logoColor=white" alt="DSA-in-Java (Private)" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -100,11 +115,7 @@ Currently focused on:
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-70%25-14B8A6?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA 70%" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Full--stack-65%25-6366F1?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-stack 65%" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Modern%20Web-60%25-F97316?style=for-the-badge&logo=javascript&logoColor=white" alt="Modern Web 60%" />
 </p>
 
