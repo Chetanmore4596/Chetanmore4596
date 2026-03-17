@@ -6,6 +6,7 @@
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coffee" width="120" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="CodeMan" width="120" />
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Eat Code Sleep Repeat" width="120" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVobXRiNzNkaWJyNWJjMmtiMzZnaGxleGV3aXd0azkyaWo2dTdtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Developer" width="120" />
 </p>
 
 <p align="center">
