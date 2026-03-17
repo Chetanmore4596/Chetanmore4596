@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding" width="120" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Typing" width="120" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Tools" width="120" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FCA311&center=true&vCenter=true&width=720&lines=Building+scalable+apps+and+clean+UIs;Full-stack+projects+with+modern+web+tech;Always+learning%2C+always+shipping" alt="Typing animation" />
 </p>
 
@@ -68,3 +74,8 @@ Currently focused on:
 ---
 
 Open to learning, collaboration, and new opportunities.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Laptop" width="140" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Developer" width="140" />
+</p>
