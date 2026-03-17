@@ -2,9 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B4D8&height=220&section=header&text=Chetan%20More&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Learner&descAlignY=62" alt="Header" />
 </p>
 
-<p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2NnajdtNWhkdGdxNzcxYWQyeWZ3cW1wM3dtZjFxb3ViMGRpbmp1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding" width="120" />
+  <p align="left"> 
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2NnajdtNWhkdGdxNzcxYWQyeWZ3cW1wM3dtZjFxb3ViMGRpbmp1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding" width="120" />
+    </p>
+    <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FCA311&center=true&vCenter=true&width=720&lines=Building+scalable+apps+and+clean+UIs;Full-stack+projects+with+modern+web+tech;Always+learning%2C+always+shipping" alt="Typing animation" />
+    </p>
+    <p align="right">
    <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2NnajdtNWhkdGdxNzcxYWQyeWZ3cW1wM3dtZjFxb3ViMGRpbmp1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding" width="120" />
 </p>
 
