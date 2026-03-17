@@ -29,10 +29,10 @@ Currently focused on:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,php,html,css,bootstrap,react,nodejs,express&perline=4" alt="Core stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,sql,php,html,css,bootstrap,react,nodejs,express&perline=6" alt="Core stack" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,eclipse&perline=4" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,eclipse&perline=6" alt="Tools" />
 </p>
 
 ---
