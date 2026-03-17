@@ -3,19 +3,31 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThyc3N4MzY3YW81Z3Z5Y2tua2lrdHJ3M2NucWxzY25rN3d1endzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4pGQLBubthJdwahFUJ/giphy.gif" alt="Laptop" width="140" />
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Tools" width="120" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVobXRiNzNkaWJyNWJjMmtiMzZnaGxleGV3aXd0azkyaWo2dTdtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ML15sUZFNyMy0Yv55m/giphy.gif" alt="Developer" width="120" />
-</p>
-
-<p align="center">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2NnajdtNWhkdGdxNzcxYWQyeWZ3cW1wM3dtZjFxb3ViMGRpbmp1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding" width="120" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=FCA311&center=true&vCenter=true&width=720&lines=Building+scalable+apps+and+clean+UIs;Full-stack+projects+with+modern+web+tech;Always+learning%2C+always+shipping" alt="Typing animation" />
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2NnajdtNWhkdGdxNzcxYWQyeWZ3cW1wM3dtZjFxb3ViMGRpbmp1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="coding" width="120" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetanmore4596&label=Profile%20Views&color=00B4D8&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Chetanmore4596?label=Followers&style=flat&color=FCA311" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Chetanmore4596?label=Stars&style=flat&color=6C757D" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Chetanmore4596&label=Profile%20Views&color=00C2FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Chetanmore4596?label=Followers&style=for-the-badge&color=8B5CF6&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Chetanmore4596?label=Stars&style=for-the-badge&color=F59E0B&logo=github&logoColor=white" alt="Stars" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="mailto:chetanmore4041@gmail.com">
+    <img src="https://img.shields.io/badge/Email-chetanmore4041%40gmail.com-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/chetan-more-b489b02a8">
+    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20More-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Chetanmore4596">
+    <img src="https://img.shields.io/badge/GitHub-Chetanmore4596-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
@@ -60,16 +72,41 @@ Currently focused on:
 
 ---
 
+## All Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=My-Portfolio&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="My-Portfolio" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Movie-recomndetion&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="Movie-recomndetion" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Product-Review-Analysis&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="Product-Review-Analysis" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=cryptoplace&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="cryptoplace" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=Python-Projects&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="Python-Projects" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=TODO-APP&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="TODO-APP" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chetanmore4596&repo=DeptXPert&theme=transparent&hide_border=true&title_color=00B4D8&text_color=334155&icon_color=FCA311" alt="DeptXPert" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA--in--Java-Private-ef4444?style=for-the-badge&logo=java&logoColor=white" alt="DSA-in-Java (Private)" />
+</p>
+
+---
+
 ## Quick Skill Pulse
 
-<p>Data Structures and Algorithms</p>
-<img src="https://img.shields.io/badge/DSA-70%25-22C55E?style=for-the-badge" alt="DSA 70%" />
-
-<p>Full-stack Development</p>
-<img src="https://img.shields.io/badge/Full--stack-65%25-38BDF8?style=for-the-badge" alt="Full-stack 65%" />
-
-<p>Modern Web Technologies</p>
-<img src="https://img.shields.io/badge/Modern%20Web-60%25-F59E0B?style=for-the-badge" alt="Modern Web 60%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-70%25-14B8A6?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA 70%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--stack-65%25-6366F1?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-stack 65%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Modern%20Web-60%25-F97316?style=for-the-badge&logo=javascript&logoColor=white" alt="Modern Web 60%" />
+</p>
 
 ---
 
