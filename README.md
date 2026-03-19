@@ -70,9 +70,7 @@ Currently focused on:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetanmore4596&bg_color=ffffff00&color=00B4D8&line=FCA311&point=334155&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetanmore4596&theme=algolia&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
+
 
 ---
 
