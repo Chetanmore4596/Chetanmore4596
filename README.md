@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetanmore4596&label=Profile%20Views&color=EC2660&style=for-the-badge&labelColor=FFFFF&logo=github&logoColor=000000" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Chetanmore4596?label=Followers&style=for-the-badge&color=A22EFB&labelColor=FFFFFF&logo=github&logoColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Chetanmore4596&label=Profile%20Views&color=87FB2E&style=for-the-badge&labelColor=FFFFF&logo=github&logoColor=000000" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Chetanmore4596?label=Followers&style=for-the-badge&color=87FB2E&labelColor=FFFFFF&logo=github&logoColor=000000" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Chetanmore4596?label=Stars&style=for-the-badge&color=87FB2E&labelColor=FFFFFF&logo=github&logoColor=000000" alt="Stars" />
 </p>
 
