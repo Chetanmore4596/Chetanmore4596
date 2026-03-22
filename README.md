@@ -27,10 +27,10 @@
     <img src="https://img.shields.io/badge/Email-chetanmore4041%40gmail.com-14B8A6?style=for-the-badge&labelColor=FFFFFF&logo=gmail&logoColor=000000" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/chetan-more-b489b02a8">
-    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20More-14B8A6?style=for-the-badge&labelColor=FFFFFF&logo=linkedin&logoColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20More-87FB2E?style=for-the-badge&labelColor=FFFFFF&logo=linkedin&logoColor=000000" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Chetanmore4596">
-    <img src="https://img.shields.io/badge/GitHub-Chetanmore4596-14B8A6?style=for-the-badge&labelColor=FFFFFF&logo=github&logoColor=000000" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Chetanmore4596-87FB2E?style=for-the-badge&labelColor=FFFFFF&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
 
@@ -77,9 +77,9 @@ Currently focused on:
 ## Quick Skill Pulse
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DSA-70%25-14B8A6?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA 70%" />
-  <img src="https://img.shields.io/badge/Full--stack-65%25-6366F1?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-stack 65%" />
-  <img src="https://img.shields.io/badge/Modern%20Web-60%25-14B8A6?style=for-the-badge&logo=javascript&logoColor=white" alt="Modern Web 60%" />
+  <img src="https://img.shields.io/badge/DSA-70%25-87FB2E?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA 70%" />
+  <img src="https://img.shields.io/badge/Full--stack-65%25-87FB2E?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Full-stack 65%" />
+  <img src="https://img.shields.io/badge/Modern%20Web-60%25-87FB2E?style=for-the-badge&logo=javascript&logoColor=white" alt="Modern Web 60%" />
 </p>
 
 ---
