@@ -62,12 +62,12 @@ Currently focused on:
 ## Live Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetanmore4596&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=FCA311&text_color=334155" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanmore4596&theme=transparent&hide_border=true&stroke=00B4D8&ring=FCA311&fire=FCA311&currStreakLabel=00B4D8" alt="GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetanmore4596&show_icons=true&theme=transparent&hide_border=true&title_color=00B4D8&icon_color=FCA311&text_color=334155" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Chetanmore4596&theme=transparent&hide_border=true&stroke=00B4D8&ring=FCA311&fire=FCA311&currStreakLabel=00B4D8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetanmore4596&bg_color=ffffff00&color=00B4D8&line=FCA311&point=334155&area=true&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chetanmore4596&theme=github-compact&hide_border=true" />
 </p>
 
 
