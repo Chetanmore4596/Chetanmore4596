@@ -70,19 +70,3 @@ Currently focused on:
 ---
 
 Open to learning, collaboration, and new opportunities.
-
-## 📬 Contact Me
-
-<p align="center">
-  <a href="mailto:chetanmore4041@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chetanmore4041%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/chetan-more-b489b02a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20More-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://github.com/Chetanmore4596" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Chetanmore4596-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
